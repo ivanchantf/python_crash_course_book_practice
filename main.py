@@ -1,3 +1,4 @@
+#Importing class
 import hello as h #--1
 from hello import hello #--2
 
@@ -8,7 +9,7 @@ from IceCreamStand import IceCreamStand
 h.hello() #--1
 hello() #--2
 print('---------')
-
+#Class [OOP]
 my_restaurant = Restaurant('Cafe Ce coral','Fast Food')
 print (my_restaurant.name)
 print(my_restaurant.cuisine_type)
@@ -75,6 +76,7 @@ with open('learning_python.txt') as file_object:
     content= file_object.read()
     print(content)
 
+print("\n\n\n-------------------FILES HANDLING-------------------\n\n\n")
 
 print('\n\t--Reading File looping file obj')
 content=''
