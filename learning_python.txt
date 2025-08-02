@@ -1,0 +1,8 @@
+In python, you can declare variables
+In python, you can use loop
+In python, you can use conditionals
+In python, you can declare class
+In python, you can ask for user input 
+In python, you can use inheritance for class
+In python, you can use dictionary to model real world obj
+In python,  you can use list to represent set of items
