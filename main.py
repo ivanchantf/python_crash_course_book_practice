@@ -1,4 +1,11 @@
 #Importing class
+# import pizza as p
+# p.makepizza()
+
+# from pizza import make_pizza as mp
+# make_pizza()
+
+
 import hello as h #--1
 from hello import hello #--2
 

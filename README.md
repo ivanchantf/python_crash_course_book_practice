@@ -1,5 +1,6 @@
 Exercises for the book Python Crash Course  (Python Basics)
-
+<h1>summary.ipynb summarize the basics for python learned from this book</h1>
+<p>This repo summarize my learning on Python while reading the book "Python Crash Course: A Hands-On, Project-Based Introduction to Programming" </p>
 <pre>
 Chapter 2: Variables and Simple Data Types: Understanding variables, strings, numbers, and comments. 
 Chapter 3: Introducing Lists: Working with lists, including changing, adding, and removing elements. 
